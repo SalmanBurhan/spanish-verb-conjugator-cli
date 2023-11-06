@@ -1,5 +1,8 @@
 # spanish-verb-conjugator-cli
-Originally as a study aid for my Spanish 1 and Spanish 2 courses in High School.
+Originally created as a study aid for my Spanish 1 and Spanish 2 courses in High School.
+
+It's purpose was to validate my conjugation attempts of *irregular* and *stem-changing* verbs in Spanish, utilizing conjugation data pulled from [SpanishDict](https://www.spanishdict.com/)
+
 The initial project simply parsed the JSON data containing the conjugations of
 a given verb and dumped them into a text file.
 
